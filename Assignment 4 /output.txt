@@ -1,0 +1,26 @@
+Top 10 Single Products:
+Product:	Frequency:
+14		18
+22		17
+5		16
+20		16
+18		16
+19		15
+12		15
+8		12
+10		12
+24		11
+
+
+Top 10 Pairs of Products:
+Product pair:	Frequency:
+10 3		5
+17 22		4
+16 8		4
+30 28		4
+11 17		4
+16 17		4
+17 26		4
+11 4		4
+8 3		3
+4 22		3
